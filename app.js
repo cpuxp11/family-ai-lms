@@ -240,7 +240,7 @@ function renderHome() {
 
       <div class="home-hero">
         <div class="home-logo-wrap">
-          <img src="assets/sk-logo.svg" alt="SK Logo" class="home-logo" />
+          <img src="assets/sk-logo.png" alt="SK Logo" class="home-logo" style="width: 120px; height: auto;" />
         </div>
         <h1 class="home-title">가족한테<br />써먹는 AI</h1>
         <p class="home-subtitle">Google Gemini<br />실전 활용법</p>
