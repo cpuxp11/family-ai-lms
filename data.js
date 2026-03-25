@@ -83,14 +83,8 @@ const COURSE_CONFIG = {
 
 <div style="background: #FFF8E1; border-left: 4px solid #F59E0B; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
   <h3 style="margin-top: 0; color: #F59E0B; font-size: 19px; margin-bottom: 10px;">핵심 한 줄</h3>
-  <p style="margin: 0; font-size: 18px; line-height: 1.8;">잘 시키면 잘 하고, 대충 시키면 대충 합니다. 그래서 '어떻게 시킬 것인가'가 중요합니다.</p>
-</div>
-
-<h3>프롬프트가 뭔가요?</h3>
-<p>프롬프트(Prompt)는 원래 연극 용어입니다. 무대 뒤에서 배우에게 대사나 동작을 지시하고 상기시켜 주는 일입니다.</p>
-<p>프롬프터(Prompter) = 그 전문가입니다. 요즘은 기계식 프롬프터(뉴스 앵커 앞 투명 화면)가 유명하죠.</p>
-<p>AI에서도 같은 뜻입니다. AI한테 "이렇게 해줘"라고 지시하는 말 = 프롬프트</p>
-<p><strong>프롬프팅</strong> = 프롬프트를 잘 쓰는 기술</p>`
+  <p style="margin: 0; font-size: 18px; line-height: 1.8;">잘 시키면 잘 하고, 대충 시키면 대충 합니다. 그래서 <strong>'어떻게 시킬 것인가'</strong>가 중요합니다.</p>
+</div>`
         },
         {
           id: "ch01-clip03",
@@ -261,7 +255,15 @@ https://www.youtube.com/watch?v=xxxxxxx</pre>
           title: "프롬프팅 4원칙",
           type: "개념",
           duration: "~10분",
-          content: `<h2>프롬프팅 4원칙 — AI에게 잘 시키는 법</h2>
+          content: `<h2>프롬프트란? + 4원칙</h2>
+
+<h3>"프롬프트"가 뭔가요?</h3>
+<p style="font-size: 18px; line-height: 1.8;"><strong>프롬프트(Prompt)</strong>는 원래 연극 용어입니다. 무대 뒤에서 배우에게 대사나 동작을 지시하고 상기시켜 주는 일입니다.</p>
+<p style="font-size: 18px; line-height: 1.8;"><strong>프롬프터(Prompter)</strong> = 그 전문가. 요즘은 기계식 프롬프터(뉴스 앵커 앞 투명 화면)가 유명하죠.</p>
+<p style="font-size: 18px; line-height: 1.8;">AI에서도 같은 뜻입니다. <strong>AI한테 "이렇게 해줘"라고 지시하는 말 = 프롬프트</strong></p>
+<p style="font-size: 18px; line-height: 1.8;"><strong>프롬프팅</strong> = 프롬프트를 잘 쓰는 기술. 그러면 어떻게 해야 잘 시킬 수 있을까요?</p>
+
+<h3>프롬프팅 4원칙 — AI에게 잘 시키는 법</h3>
 <p style="font-size: 18px; line-height: 1.8;">AI한테 일을 시킬 때, 이 <strong>4가지</strong>만 기억하시면 됩니다.</p>
 
 <table style="width: 100%; border-collapse: collapse; margin: 28px 0;">
