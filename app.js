@@ -234,25 +234,14 @@ function renderHome() {
 
   mainContent.innerHTML = `
     <div class="page-enter">
-      <div class="home-greeting">
-        <span class="home-greeting-name">환영합니다</span>
-      </div>
-
-      <div class="home-hero">
-        <div class="home-logo-wrap">
-          <img src="assets/sk-logo.png" alt="SK Logo" class="home-logo" style="width: 120px; height: auto;" />
-        </div>
-        <h1 class="home-title">가족한테<br />써먹는 AI</h1>
-        <p class="home-subtitle">Google Gemini<br />실전 활용법</p>
-      </div>
-
-      <div class="home-meta">
-        <div class="home-meta-item">
-          ${COURSE_CONFIG.date}
-        </div>
-        <div class="home-meta-dot">·</div>
-        <div class="home-meta-item">
-          ${COURSE_CONFIG.location}
+      <div class="home-hero" style="background: none; text-align: center; padding: 50px 20px 30px;">
+        <img src="assets/sk-logo.png" alt="SK Logo" style="width: 100px; height: auto; margin-bottom: 32px;" />
+        <h1 class="home-title" style="font-size: 40px; margin-bottom: 16px;">가족한테 써먹는 AI</h1>
+        <p class="home-subtitle" style="font-size: 22px; color: #6B7280; margin-bottom: 32px;">Google Gemini 실전 활용법</p>
+        <div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap; font-size: 17px; color: #6B7280;">
+          <span>📅 2026.03.26 (수) 13:30</span>
+          <span style="color: #D1D5DB;">·</span>
+          <span>📍 아너스라운지 6층</span>
         </div>
       </div>
 

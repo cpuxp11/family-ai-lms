@@ -3,8 +3,8 @@ const COURSE_CONFIG = {
   org: "SK",
   subtitle: "Google Gemini 실전 활용법",
   logoSrc: "assets/sk-logo.svg",
-  date: "2026.03.26",
-  location: "SK 캠퍼스",
+  date: "2026.03.26 (수) 13:30",
+  location: "아너스라운지 6층",
   instructor: "",
 
   glossary: {
