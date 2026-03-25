@@ -240,12 +240,7 @@ function renderHome() {
 
       <div class="home-hero">
         <div class="home-logo-wrap">
-          <svg class="home-logo" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-            <rect x="10" y="10" width="30" height="30" fill="#E4002B"/>
-            <rect x="50" y="10" width="40" height="30" fill="#E4002B"/>
-            <circle cx="25" cy="70" r="15" fill="#E4002B"/>
-            <rect x="50" y="55" width="40" height="30" fill="#E4002B"/>
-          </svg>
+          <img src="assets/sk-logo.svg" alt="SK Logo" class="home-logo" />
         </div>
         <h1 class="home-title">가족한테<br />써먹는 AI</h1>
         <p class="home-subtitle">Google Gemini<br />실전 활용법</p>
