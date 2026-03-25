@@ -889,7 +889,7 @@ https://www.youtube.com/watch?v=xxxxxxx</pre>
 <div style="background: #FFF8E1; border-left: 4px solid #F59E0B; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
   <h3 style="margin-top: 0; color: #F59E0B; font-size: 19px; margin-bottom: 10px;">바이브 코딩(Vibe Coding)이란?</h3>
   <p style="margin: 0; font-size: 18px; line-height: 1.8;">코딩을 몰라도 됩니다. 말로 설명하면 됩니다. 요즘 이걸 '바이브 코딩(Vibe Coding)'이라고 부릅니다.</p>
-  <p style="margin: 15px 0 0 0;">원래 코딩은 개발자만 할 수 있는 전문 작업이었는데, AI가 등장하면서 '이런 느낌으로 만들어줘'라고 말하면 AI가 대신 코딩을 해주는 시대가 된 겁니다.</p>
+  <p style="margin: 15px 0 0 0; font-size: 18px; line-height: 1.8;">원래 코딩은 개발자만 할 수 있는 전문 작업이었는데, AI가 등장하면서 '이런 느낌으로 만들어줘'라고 말하면 AI가 대신 코딩을 해주는 시대가 된 겁니다.</p>
 </div>`
         },
         {
@@ -955,7 +955,7 @@ https://www.youtube.com/watch?v=xxxxxxx</pre>
       <span style="color: #9CA3AF; font-size: 16px; font-weight: 500;">📋 시스템 인스트럭션</span>
       <button onclick="navigator.clipboard.writeText(this.closest('[data-prompt]').getAttribute('data-prompt')); this.textContent='✅ 복사됨!'; setTimeout(()=>this.textContent='📋 복사하기', 1500);" style="background: #E4002B; color: #FFFFFF; border: none; padding: 14px 22px; border-radius: 8px; cursor: pointer; font-size: 17px; font-weight: 700; min-height: 52px; display: flex; align-items: center; gap: 8px; white-space: nowrap; letter-spacing: 0.2px; transition: background 0.2s;">📋 복사하기</button>
     </div>
-    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.7; margin: 0; font-size: 12px;">당신은 \"부부 소통 전문 번역기\"입니다. 30년 이상의 결혼 생활 경험을 가진 부부 상담 전문가 역할을 합니다.
+    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.8; margin: 0; font-size: 16px;">당신은 \"부부 소통 전문 번역기\"입니다. 30년 이상의 결혼 생활 경험을 가진 부부 상담 전문가 역할을 합니다.
 
 ## 역할
 사용자가 배우자의 말이나 행동을 입력하면, 그 속에 담긴 진짜 의미를 친절하고 유머러스하게 해석해줍니다.
@@ -1041,7 +1041,7 @@ https://www.youtube.com/watch?v=xxxxxxx</pre>
       <span style="color: #9CA3AF; font-size: 16px; font-weight: 500;">📋 시스템 인스트럭션</span>
       <button onclick="navigator.clipboard.writeText(this.closest('[data-prompt]').getAttribute('data-prompt')); this.textContent='✅ 복사됨!'; setTimeout(()=>this.textContent='📋 복사하기', 1500);" style="background: #E4002B; color: #FFFFFF; border: none; padding: 14px 22px; border-radius: 8px; cursor: pointer; font-size: 17px; font-weight: 700; min-height: 52px; display: flex; align-items: center; gap: 8px; white-space: nowrap; letter-spacing: 0.2px; transition: background 0.2s;">📋 복사하기</button>
     </div>
-    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.7; margin: 0; font-size: 12px;">당신은 20년 경력의 프로 골프 캐디입니다. 한국의 모든 주요 골프장 코스를 꿰고 있습니다.
+    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.8; margin: 0; font-size: 16px;">당신은 20년 경력의 프로 골프 캐디입니다. 한국의 모든 주요 골프장 코스를 꿰고 있습니다.
 
 ## 역할
 사용자가 골프장 이름이나 코스를 알려주면:
@@ -1119,7 +1119,7 @@ https://www.youtube.com/watch?v=xxxxxxx</pre>
       <span style="color: #9CA3AF; font-size: 16px; font-weight: 500;">📋 시스템 인스트럭션</span>
       <button onclick="navigator.clipboard.writeText(this.closest('[data-prompt]').getAttribute('data-prompt')); this.textContent='✅ 복사됨!'; setTimeout(()=>this.textContent='📋 복사하기', 1500);" style="background: #E4002B; color: #FFFFFF; border: none; padding: 14px 22px; border-radius: 8px; cursor: pointer; font-size: 17px; font-weight: 700; min-height: 52px; display: flex; align-items: center; gap: 8px; white-space: nowrap; letter-spacing: 0.2px; transition: background 0.2s;">📋 복사하기</button>
     </div>
-    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.7; margin: 0; font-size: 12px;">당신은 30년 경력의 증권 애널리스트입니다. 복잡한 주식 정보를 일반인도 이해할 수 있게 설명하는 것이 특기입니다.
+    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.8; margin: 0; font-size: 16px;">당신은 30년 경력의 증권 애널리스트입니다. 복잡한 주식 정보를 일반인도 이해할 수 있게 설명하는 것이 특기입니다.
 
 ## 역할
 사용자가 종목명이나 관심 분야를 말하면:
@@ -1201,7 +1201,7 @@ https://www.youtube.com/watch?v=xxxxxxx</pre>
       <span style="color: #9CA3AF; font-size: 16px; font-weight: 500;">📋 시스템 인스트럭션</span>
       <button onclick="navigator.clipboard.writeText(this.closest('[data-prompt]').getAttribute('data-prompt')); this.textContent='✅ 복사됨!'; setTimeout(()=>this.textContent='📋 복사하기', 1500);" style="background: #E4002B; color: #FFFFFF; border: none; padding: 14px 22px; border-radius: 8px; cursor: pointer; font-size: 17px; font-weight: 700; min-height: 52px; display: flex; align-items: center; gap: 8px; white-space: nowrap; letter-spacing: 0.2px; transition: background 0.2s;">📋 복사하기</button>
     </div>
-    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.7; margin: 0; font-size: 12px;">당신은 25년 경력의 부동산 전문 컨설턴트입니다. 복잡한 부동산 시장 정보를 쉽고 친근하게 설명합니다.
+    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.8; margin: 0; font-size: 16px;">당신은 25년 경력의 부동산 전문 컨설턴트입니다. 복잡한 부동산 시장 정보를 쉽고 친근하게 설명합니다.
 
 ## 역할
 사용자가 관심 지역이나 부동산 관련 질문을 하면:
