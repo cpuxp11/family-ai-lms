@@ -754,36 +754,8 @@ https://www.youtube.com/watch?v=xxxxxxx</pre>
   </div>
 </div>
 
-<h3>Step 2: 테스트 대화</h3>
-<div data-prompt="안녕하세요. 저는 1960년생이고, 대기업에서 35년간 일하다 작년에 은퇴했습니다.">
-  <div style="background: #1E1E1E; border-radius: 14px; padding: 28px; margin: 28px 0; position: relative;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 18px; gap: 16px;">
-      <span style="color: #9CA3AF; font-size: 16px; font-weight: 500;">📋 테스트 1</span>
-      <button onclick="navigator.clipboard.writeText(this.closest('[data-prompt]').getAttribute('data-prompt')); this.textContent='✅ 복사됨!'; setTimeout(()=>this.textContent='📋 복사하기', 1500);" style="background: #E4002B; color: #FFFFFF; border: none; padding: 14px 22px; border-radius: 8px; cursor: pointer; font-size: 17px; font-weight: 700; min-height: 52px; display: flex; align-items: center; gap: 8px; white-space: nowrap; letter-spacing: 0.2px; transition: background 0.2s;">📋 복사하기</button>
-    </div>
-    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.9; margin: 0; font-size: 18px;">안녕하세요. 저는 1960년생이고, 대기업에서 35년간 일하다 작년에 은퇴했습니다.</pre>
-  </div>
-</div>
-
-<div data-prompt="제가 처음 입사했을 때가 1985년이었는데, 그때는 컴퓨터가 부서에 1대밖에 없었어요.">
-  <div style="background: #1E1E1E; border-radius: 14px; padding: 28px; margin: 28px 0; position: relative;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 18px; gap: 16px;">
-      <span style="color: #9CA3AF; font-size: 16px; font-weight: 500;">📋 테스트 2</span>
-      <button onclick="navigator.clipboard.writeText(this.closest('[data-prompt]').getAttribute('data-prompt')); this.textContent='✅ 복사됨!'; setTimeout(()=>this.textContent='📋 복사하기', 1500);" style="background: #E4002B; color: #FFFFFF; border: none; padding: 14px 22px; border-radius: 8px; cursor: pointer; font-size: 17px; font-weight: 700; min-height: 52px; display: flex; align-items: center; gap: 8px; white-space: nowrap; letter-spacing: 0.2px; transition: background 0.2s;">📋 복사하기</button>
-    </div>
-    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.9; margin: 0; font-size: 18px;">제가 처음 입사했을 때가 1985년이었는데, 그때는 컴퓨터가 부서에 1대밖에 없었어요.</pre>
-  </div>
-</div>
-
-<div data-prompt="지금까지 이야기한 내용을 회고록 형식으로 정리해줘">
-  <div style="background: #1E1E1E; border-radius: 14px; padding: 28px; margin: 28px 0; position: relative;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 18px; gap: 16px;">
-      <span style="color: #9CA3AF; font-size: 16px; font-weight: 500;">📋 테스트 3</span>
-      <button onclick="navigator.clipboard.writeText(this.closest('[data-prompt]').getAttribute('data-prompt')); this.textContent='✅ 복사됨!'; setTimeout(()=>this.textContent='📋 복사하기', 1500);" style="background: #E4002B; color: #FFFFFF; border: none; padding: 14px 22px; border-radius: 8px; cursor: pointer; font-size: 17px; font-weight: 700; min-height: 52px; display: flex; align-items: center; gap: 8px; white-space: nowrap; letter-spacing: 0.2px; transition: background 0.2s;">📋 복사하기</button>
-    </div>
-    <pre style="color: #E5E7EB; font-family: 'Pretendard', sans-serif; white-space: pre-wrap; line-height: 1.9; margin: 0; font-size: 18px;">지금까지 이야기한 내용을 회고록 형식으로 정리해줘</pre>
-  </div>
-</div>
+<h3>Step 2: 저장하고 테스트하기</h3>
+<p style="font-size: 18px; line-height: 1.8;">"저장" 누르고, "채팅 시작"을 클릭하세요. 그리고 편하게 대화를 시작해보세요. 옛날 이야기를 하다 보면 본인도 잊고 있던 기억이 떠오릅니다.</p>
 
 <div style="background: #FFF8E1; border-left: 4px solid #F59E0B; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
   <h3 style="margin-top: 0; color: #F59E0B; font-size: 19px; margin-bottom: 10px;">확인 포인트</h3>
