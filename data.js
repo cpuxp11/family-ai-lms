@@ -294,13 +294,42 @@ https://www.youtube.com/watch?v=xxxxxxx</pre>
   </tr>
 </table>
 
-<div style="background: #FFF0F0; border-left: 4px solid #E4002B; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
-  <h3 style="margin-top: 0; color: #E4002B; font-size: 19px; margin-bottom: 10px;">쉽게 외우기</h3>
-  <p style="margin: 0; font-size: 18px; line-height: 1.8;"><strong>역맥형단</strong> (역할 → 맥락 → 형식 → 단계)</p>
-  <p style="margin: 12px 0 0 0; font-size: 18px; line-height: 1.8;">'<strong>역마 경단</strong>' — 역마살 걸린 경단이라고 외우세요 🍡</p>
-</div>
+<p style="font-size: 18px; line-height: 1.8;">이 4가지를 넣어서 시키면, 결과가 완전히 달라집니다. 다음 페이지에서 직접 체험해봅시다!</p>
 
-<p style="font-size: 18px; line-height: 1.8;">이 4가지를 넣어서 시키면, 결과가 완전히 달라집니다. 다음 페이지에서 직접 체험해봅시다!</p>`
+<h3>노래 만들 때 넣으면 좋은 것들</h3>
+<table style="width: 100%; border-collapse: collapse; margin: 28px 0;">
+  <tr style="background: #F9FAFB;">
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7; font-weight: bold;">항목</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7; font-weight: bold;">예시</td>
+  </tr>
+  <tr>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">장르</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">발라드, 트로트, 동요, 팝, 재즈</td>
+  </tr>
+  <tr style="background: #F9FAFB;">
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">분위기</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">신나는, 감동적인, 잔잔한, 웅장한</td>
+  </tr>
+  <tr>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">길이</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">30초, 1분, 2분</td>
+  </tr>
+  <tr style="background: #F9FAFB;">
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">가사 키워드</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">이름, 장소, 추억, 좋아하는 것</td>
+  </tr>
+  <tr>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">구조</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">1절/2절, 후렴구, 인트로</td>
+  </tr>
+</table>
+
+<h3>이런 노래도 만들어보세요!</h3>
+<ul style="line-height: 2.0; font-size: 18px;">
+  <li><strong>손주한테 보내는 노래</strong> — "사랑하는 손주 OO이한테, 동요 스타일로, 좋아하는 공룡/로봇 키워드 넣어서"</li>
+  <li><strong>내 인생을 담은 노래</strong> — "내 인생을 담은 트로트, 고향 OO, 젊었을 때 추억, 신나는 분위기로"</li>
+  <li><strong>감사 인사 노래</strong> — "은퇴하면서 동료들한테, 팝 발라드 스타일로, 함께한 세월에 감사"</li>
+</ul>`
         },
         {
           id: "ch01-clip07",
