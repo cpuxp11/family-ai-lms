@@ -1022,60 +1022,46 @@ Day별 → 시간대별(오전/점심/오후/저녁) → 추천 이유 + 이동 
           type: "개념",
           duration: "~10분",
           content: `<h2>AI Studio가 뭔가요?</h2>
+<blockquote style="border-left: 5px solid #E4002B; padding: 24px 28px; margin: 28px 0; background: #FFF5F5; border-radius: 0 10px 10px 0;">
+  <p style="margin: 0; font-size: 21px; font-weight: 700; color: #1F2937; line-height: 1.6;">Google이 무료로 제공하는 사이트입니다.<br>'이런 AI 도구를 만들어줘'라고 <strong>말로 설명하면 AI가 알아서 만들어주는 곳</strong>이에요.</p>
+</blockquote>
 
-<h3>Google이 만든 "AI 도구 공장"입니다</h3>
-<p style="font-size: 18px; line-height: 1.9;"><strong>AI Studio</strong>는 Google이 무료로 제공하는 사이트입니다. 여기서 <strong>나만의 AI 도구</strong>를 만들 수 있습니다.</p>
-<p style="font-size: 18px; line-height: 1.9;">코딩을 할 줄 몰라도 됩니다. <strong>말로 "이런 걸 만들어줘"라고 설명하면, AI가 알아서 만들어줍니다.</strong></p>
+<h3>한마디로: 나만의 AI 도구를 만드는 공장입니다</h3>
+<p style="font-size: 18px; line-height: 1.9;">2교시에서 만든 Gems는 AI에게 "너는 OO 전문가야"라고 <strong>성격을 정해주는 거</strong>였죠?</p>
+<p style="font-size: 18px; line-height: 1.9;">AI Studio는 한 단계 더 나갑니다. 성격뿐 아니라 <strong>실시간으로 인터넷을 검색하고, 나만의 AI 앱을 만들어서 다른 사람한테 공유</strong>까지 할 수 있습니다.</p>
 
-<div style="background: #F0F7FF; border-left: 4px solid #2563EB; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
-  <h3 style="margin-top: 0; color: #2563EB; font-size: 19px; margin-bottom: 14px;">예를 들면 이런 겁니다</h3>
-  <p style="margin: 0; font-size: 18px; line-height: 1.9;">
-    "골프 코스 공략을 알려주는 AI를 만들어줘" 라고 입력하면<br>
-    → AI가 자동으로 만들어줍니다<br>
-    → 완성된 도구를 <strong>링크 하나로 가족한테 공유</strong>할 수도 있습니다
-  </p>
-</div>
-
-<h3>2교시에서 만든 Gems와 뭐가 다른가요?</h3>
-<p style="font-size: 18px; line-height: 1.9;">Gems는 AI에게 <strong>"너는 회고록 작가야"</strong>라고 성격을 정해주는 거였습니다. 대화는 잘 되지만, 할 수 있는 건 <strong>'대화'까지</strong>입니다.</p>
-<p style="font-size: 18px; line-height: 1.9;">AI Studio는 한 단계 더 나갑니다. 대화뿐 아니라 <strong>실시간으로 인터넷을 검색하고, 나만의 AI 앱을 만들어서 다른 사람한테 공유</strong>할 수 있습니다.</p>
-
-<div style="background: #FFF8E1; border-left: 4px solid #F59E0B; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
-  <h3 style="margin-top: 0; color: #F59E0B; font-size: 19px; margin-bottom: 10px;">한 줄 비유</h3>
-  <p style="margin: 0; font-size: 18px; line-height: 1.8;">
-    <strong>Gems</strong> = AI에게 명함을 주는 것 ("너는 OO 전문가야")<br>
-    <strong>AI Studio</strong> = AI 직원을 채용해서 업무 매뉴얼까지 주는 것 ("이런 도구를 만들어줘")
-  </p>
-</div>
-
-<h3>한눈에 비교</h3>
 <table style="width: 100%; border-collapse: collapse; margin: 28px 0;">
   <tr style="background: #F9FAFB;">
-    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7; font-weight: bold;">구분</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7; font-weight: bold;">상황</td>
     <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7; font-weight: bold;">Gems</td>
     <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7; font-weight: bold;">AI Studio</td>
   </tr>
   <tr>
     <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">비유</td>
-    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">AI에게 명함을 주는 것</td>
-    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">AI 직원을 채용해서 업무 매뉴얼까지 주는 것</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">전담 비서에게 명함을 주는 것</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">전담 비서를 채용하고 업무 매뉴얼까지 주는 것</td>
   </tr>
   <tr style="background: #F9FAFB;">
     <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">할 수 있는 것</td>
-    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">대화 스타일 설정</td>
-    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">대화 + <strong>실시간 검색</strong> + 도구 연결</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">대화 (정해진 성격으로)</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">대화 + <strong>실시간 검색</strong> + 도구 만들기</td>
   </tr>
   <tr>
-    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">난이도</td>
-    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">쉬움</td>
-    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">쉬움~중간 (코딩 필요 없음!)</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">공유</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">본인만 사용</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;"><strong>링크로 가족한테 공유 가능</strong></td>
   </tr>
   <tr style="background: #F9FAFB;">
     <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">접속</td>
-    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;"><a href="https://gemini.google.com" target="_blank" style="color: #2563EB; text-decoration: underline;">gemini.google.com</a> → Gems</td>
-    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;"><a href="https://aistudio.google.com/apps" target="_blank" style="color: #2563EB; text-decoration: underline;">aistudio.google.com</a></td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">gemini.google.com → Gems</td>
+    <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7;">aistudio.google.com</td>
   </tr>
 </table>
+
+<div style="background: #FFF0F0; border-left: 4px solid #E4002B; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
+  <h3 style="margin-top: 0; color: #E4002B; font-size: 19px; margin-bottom: 10px;">쉽게 말하면</h3>
+  <p style="margin: 0; font-size: 18px; line-height: 1.8;">Gems는 '대화 상대'를 만드는 거고, AI Studio는 '도구'를 만드는 겁니다. 코딩 몰라도 됩니다. 오늘 직접 해보면 아시게 됩니다.</p>
+</div>
 
 <h3>AI Studio에서는 이런 걸 만들 수 있습니다</h3>
 <p style="font-size: 18px; line-height: 1.9;">오늘 3교시에서 직접 만들어볼 것들입니다:</p>
