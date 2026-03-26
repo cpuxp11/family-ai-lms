@@ -1023,20 +1023,32 @@ Day별 → 시간대별(오전/점심/오후/저녁) → 추천 이유 + 이동 
           duration: "~10분",
           content: `<h2>AI Studio가 뭔가요?</h2>
 
-<h3>2교시에서 만든 Gems, 기억나시죠?</h3>
-<p style="font-size: 18px; line-height: 1.9;">Gems는 AI에게 <strong>"너는 회고록 작가야"</strong>라고 성격을 정해주는 거였습니다. 대화는 잘 되지만, 할 수 있는 건 '대화'까지입니다.</p>
+<h3>Google이 만든 "AI 도구 공장"입니다</h3>
+<p style="font-size: 18px; line-height: 1.9;"><strong>AI Studio</strong>는 Google이 무료로 제공하는 사이트입니다. 여기서 <strong>나만의 AI 도구</strong>를 만들 수 있습니다.</p>
+<p style="font-size: 18px; line-height: 1.9;">코딩을 할 줄 몰라도 됩니다. <strong>말로 "이런 걸 만들어줘"라고 설명하면, AI가 알아서 만들어줍니다.</strong></p>
 
-<p style="font-size: 18px; line-height: 1.9;">AI Studio는 한 단계 더 나갑니다. 대화뿐 아니라 <strong>실시간으로 인터넷을 검색하고, 도구를 연결하고, 나만의 AI 앱</strong>을 만들 수 있습니다.</p>
-
-<div style="background: #FFF8E1; border-left: 4px solid #F59E0B; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
-  <h3 style="margin-top: 0; color: #F59E0B; font-size: 19px; margin-bottom: 10px;">한 줄 정리</h3>
-  <p style="margin: 0; font-size: 18px; line-height: 1.8;">
-    <strong>Gems</strong> = AI에게 명함을 주는 것 (성격 설정)<br>
-    <strong>AI Studio</strong> = AI 직원을 채용해서 업무 매뉴얼까지 주는 것 (도구 제작)
+<div style="background: #F0F7FF; border-left: 4px solid #2563EB; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
+  <h3 style="margin-top: 0; color: #2563EB; font-size: 19px; margin-bottom: 14px;">예를 들면 이런 겁니다</h3>
+  <p style="margin: 0; font-size: 18px; line-height: 1.9;">
+    "골프 코스 공략을 알려주는 AI를 만들어줘" 라고 입력하면<br>
+    → AI가 자동으로 만들어줍니다<br>
+    → 완성된 도구를 <strong>링크 하나로 가족한테 공유</strong>할 수도 있습니다
   </p>
 </div>
 
-<h3>Gems와 AI Studio, 뭐가 다른가요?</h3>
+<h3>2교시에서 만든 Gems와 뭐가 다른가요?</h3>
+<p style="font-size: 18px; line-height: 1.9;">Gems는 AI에게 <strong>"너는 회고록 작가야"</strong>라고 성격을 정해주는 거였습니다. 대화는 잘 되지만, 할 수 있는 건 <strong>'대화'까지</strong>입니다.</p>
+<p style="font-size: 18px; line-height: 1.9;">AI Studio는 한 단계 더 나갑니다. 대화뿐 아니라 <strong>실시간으로 인터넷을 검색하고, 나만의 AI 앱을 만들어서 다른 사람한테 공유</strong>할 수 있습니다.</p>
+
+<div style="background: #FFF8E1; border-left: 4px solid #F59E0B; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
+  <h3 style="margin-top: 0; color: #F59E0B; font-size: 19px; margin-bottom: 10px;">한 줄 비유</h3>
+  <p style="margin: 0; font-size: 18px; line-height: 1.8;">
+    <strong>Gems</strong> = AI에게 명함을 주는 것 ("너는 OO 전문가야")<br>
+    <strong>AI Studio</strong> = AI 직원을 채용해서 업무 매뉴얼까지 주는 것 ("이런 도구를 만들어줘")
+  </p>
+</div>
+
+<h3>한눈에 비교</h3>
 <table style="width: 100%; border-collapse: collapse; margin: 28px 0;">
   <tr style="background: #F9FAFB;">
     <td style="padding: 18px 16px; border: 1px solid #E5E7EB; font-size: 17px; line-height: 1.7; font-weight: bold;">구분</td>
