@@ -638,7 +638,7 @@ https://www.youtube.com/watch?v=Ll0oAYdzDAk</pre>
     <div style="font-size: 20px; font-weight: 700; color: #1F2937;">Gemini Gems</div>
     <div style="font-size: 16px; color: #6B7280; margin-top: 4px;">나만의 맞춤 AI 어시스턴트를 만드는 기능</div>
   </div>
-  <a href="https://gemini.google.com/gems" target="_blank" style="color: #2563EB; font-size: 17px; font-weight: 600; text-decoration: none; white-space: nowrap;">Gems 만들러 가기 →</a>
+  <a href="https://gemini.google.com/gems/view" target="_blank" style="color: #2563EB; font-size: 17px; font-weight: 600; text-decoration: none; white-space: nowrap;">Gems 만들러 가기 →</a>
 </div>
 <div style="background: #ECFDF5; border-left: 4px solid #059669; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
   <h3 style="margin-top: 0; color: #059669; font-size: 19px; margin-bottom: 10px;">Step 1</h3>
@@ -687,7 +687,7 @@ https://www.youtube.com/watch?v=Ll0oAYdzDAk</pre>
     <div style="font-size: 20px; font-weight: 700; color: #1F2937;">Gemini Gems</div>
     <div style="font-size: 16px; color: #6B7280; margin-top: 4px;">실습 플랫폼 — Gems(나만의 AI 어시스턴트)를 직접 만들고 테스트합니다</div>
   </div>
-  <a href="https://gemini.google.com/gems" target="_blank" style="color: #2563EB; font-size: 17px; font-weight: 600; text-decoration: none; white-space: nowrap;">접속하기 →</a>
+  <a href="https://gemini.google.com/gems/view" target="_blank" style="color: #2563EB; font-size: 17px; font-weight: 600; text-decoration: none; white-space: nowrap;">접속하기 →</a>
 </div>
 <h3>Step 1: Gem 만들기</h3>
 <p style="font-size: 18px; line-height: 1.8; margin-bottom: 8px;"><a href="https://gemini.google.com" target="_blank" style="color: #2563EB; text-decoration: underline;">gemini.google.com</a> → Gems → "+ 새 Gem" 클릭 후, 아래 내용을 각 칸에 입력하세요.</p>
