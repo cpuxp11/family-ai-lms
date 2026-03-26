@@ -1137,17 +1137,8 @@ Day별 → 시간대별(오전/점심/오후/저녁) → 추천 이유 + 이동 
 </div>
 
 <div style="background: #F0F7FF; border-left: 4px solid #2563EB; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
-  <h3 style="margin-top: 0; color: #2563EB; font-size: 19px; margin-bottom: 10px;">Step 2 — 화면 구성</h3>
-  <ul style="margin: 0; font-size: 18px; line-height: 1.8;">
-    <li><strong>왼쪽:</strong> 시스템 인스트럭션</li>
-    <li><strong>오른쪽:</strong> 테스트 대화창</li>
-    <li><strong>상단:</strong> 모델 선택</li>
-  </ul>
-</div>
-
-<div style="background: #FFF0F0; border-left: 4px solid #E4002B; padding: 26px 30px; margin: 28px 0; border-radius: 10px;">
-  <h3 style="margin-top: 0; color: #E4002B; font-size: 19px; margin-bottom: 10px;">Step 3</h3>
-  <p style="margin: 0; font-size: 18px; line-height: 1.8;">"Create new prompt" 클릭 → System Instruction에 역할 적기 → 끝!</p>
+  <h3 style="margin-top: 0; color: #2563EB; font-size: 19px; margin-bottom: 10px;">Step 2</h3>
+  <p style="margin: 0; font-size: 18px; line-height: 1.8;">"Build" 클릭 → 말로 설명하면 AI가 만들어줍니다</p>
 </div>
 
 <h3>오늘 만들 4가지 도구</h3>
